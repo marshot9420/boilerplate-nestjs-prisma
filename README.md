@@ -1,1 +1,1 @@
-# boilerplate-nestjs-prisma
+# NestJS 보일러플레이트 with Prisma
